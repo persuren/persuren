@@ -1,21 +1,56 @@
- [![MasterHead](https://drive.google.com/file/d/1uqvnnxMll_q2XWzCtT7mf-rnd7crbGSj/view?usp=drive_link)
-<h1 align="center">Hi 👋, I'm Pınar</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<!-- Cyberpunk Neon Profile Start -->
 
-- 🔭 I’m currently working on [Girls That Invest Mobile App](https://github.com/persuren/GirlsThatInvest)
-
-- 📫 How to reach me **persuren@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lJYy5BnDoyfD7zDorhHVM_oOgALjSFTg/view?usp=drive_link](https://drive.google.com/file/d/1lJYy5BnDoyfD7zDorhHVM_oOgALjSFTg/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/persuren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="persuren" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1ElbMXu9OAmVJN2QQIkJuwc6bE2FhSFw4" alt="Cyberpunk Banner" width="100%" style="border-radius:10px;" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center" style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); padding: 30px; border-radius: 20px; box-shadow: 0 0 25px #ff00ff; color: #00ffff; font-family: 'Orbitron', sans-serif;">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=persuren&show_icons=true&locale=en&layout=compact" alt="persuren" /></p>
+<h1>🚀 Hi there, I'm Pınar 🌌</h1>
+<h3>💡 A Computer Engineer | AI Enthusiast | Tech & Space Explorer</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=persuren&" alt="persuren" /></p>
+---
+
+🔭 I’m currently working on <a href="https://github.com/persuren/GirlsThatInvest" style="color:#FF6EC7;"><strong>Girls That Invest Mobile App</strong></a>  
+📫 Reach me at: <strong>persuren@gmail.com</strong>  
+📄 Learn more: <a href="https://drive.google.com/file/d/1lJYy5BnDoyfD7zDorhHVM_oOgALjSFTg/view?usp=drive_link" style="color:#FF6EC7;"><strong>My CV</strong></a>  
+
+---
+
+<h3>🌐 Connect with me:</h3>
+<p>
+  <a href="https://linkedin.com/in/persuren" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+</p>
+
+---
+
+<h3>⚙️ Languages & Tools:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=android,c,java,js,ts,python,mysql,nodejs,react,firebase,git,postman,pandas" />
+</p>
+
+---
+
+<h3>📊 GitHub Stats</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=persuren&layout=compact&theme=radical&bg_color=000000&title_color=FF6EC7&text_color=00FFFF" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=persuren&theme=radical&background=000000&ring=FF6EC7&fire=00FFFF&currStreakLabel=FF6EC7" />
+</p>
+
+---
+## 🐍 GitHub Snake Game
+
+<p align="center">
+  <img src="https://github.com/persuren/persuren/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+<h3>💫 Powered by Curiosity, AI and Stardust ✨</h3>
+
+</div>
+
+<!-- Cyberpunk Neon Profile End -->
