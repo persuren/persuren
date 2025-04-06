@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fvectors%2Fempty-bookshelf.html&psig=AOvVaw0hwYsixJbBRWh2NumdGH__&ust=1744045916281000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjX5Kz0w4wDFQAAAAAdAAAAABAE)
+ [![MasterHead](https://depositphotos.com/vectors/empty-bookshelf.html)
 <h1 align="center">Hi 👋, I'm Pınar</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
