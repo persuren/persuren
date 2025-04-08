@@ -7,7 +7,7 @@
 <div align="center" style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); padding: 30px; border-radius: 20px; box-shadow: 0 0 25px #ff00ff; color: #00ffff; font-family: 'Orbitron', sans-serif;">
 
 <h1>🚀 Hi there, I'm Pınar 🌌</h1>
-<h3>💡 A Computer Engineer | AI Enthusiast | Tech & Space Explorer</h3>
+<h3>💡 A Computer Engineer </h3>
 
 ---
 
@@ -28,7 +28,7 @@
 
 <h3>⚙️ Languages & Tools:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=android,c,java,js,ts,python,mysql,nodejs,react,firebase,git,postman,pandas" />
+  <img src="https://skillicons.dev/icons?i=android,c,js,ts,python,mysql,nodejs,react,firebase,git,postman,pandas" />
 </p>
 
 ---
